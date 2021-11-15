@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.doc360.top/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Docs you need'
 theme = "beautifulhugo"
