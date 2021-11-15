@@ -1,4 +1,4 @@
 baseURL = 'http://www.doc360.top/'
 languageCode = 'en-us'
-title = 'Docs you need'
+title = 'Docs that you need'
 theme = "beautifulhugo"
