@@ -145,6 +145,11 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
+name = "Document"
+weight = 2
+url = "document/"
+
+[[languages.en.menu.main]]
 name = "Projects"
 weight = 3
 url = "projects/"
@@ -173,6 +178,11 @@ url = "about/"
 name = "博客"
 weight = 2
 url = "posts/"
+
+[[languages.cn.menu.main]]
+name = "文档"
+weight = 2
+url = "document/"
 
 [[languages.cn.menu.main]]
 name = "项目"
