@@ -13,10 +13,10 @@ enableEmoji = true
 
 [params]
 author = "Zhang Peng"
-description = "John Doe's personal website"
-keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
-avatarURL = "images/logo/avatar.jpg"
+description = "Roc's personal website"
+keywords = "document,blog,developer,personal"
+info = ["Full Stack DevOps", "Java coder"]
+avatarURL = "images/logo/avatar3.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
@@ -154,33 +154,33 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
+[languages.cn]
+languageName = ":cn:"
+title = "猿类森林"
 
-[languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
+[languages.cn.params]
+author = "张鹏"
+info = "全栈码农，Java工作"
+description = "Roc's personal website"
+keywords = "document,blog,developer,personal"
 
-[[languages.pt-br.menu.main]]
-name = "Sobre"
+[[languages.cn.menu.main]]
+name = "关于"
 weight = 1
 url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "Blog"
+[[languages.cn.menu.main]]
+name = "博客"
 weight = 2
 url = "posts/"
 
-[[languages.pt-br.menu.main]]
-name = "Projetos"
+[[languages.cn.menu.main]]
+name = "项目"
 weight = 3
 url = "projects/"
 
-[[languages.pt-br.menu.main]]
-name = "Contato"
+[[languages.cn.menu.main]]
+name = "联系"
 weight = 5
 url = "contact/"
 
