@@ -125,4 +125,8 @@ $ hugo -D
 
 以上命令默认会在 ./public/ 下生成内容，如需自己指定使用参数**( -d/--destination)**或者在配置文件里增加**publishdir**配置
 
+**微信公众号：猿类森林**
+
+[**阅读原文**](http://www.doc360.top/posts/hugo/hugo教程01-基础使用/)
+
 ![公众号](http://www.doc360.top/images/wechat/qrcode_serch.png)
