@@ -1,5 +1,5 @@
 ---
-title: "Hugo教程"
+title: "Hugo教程01-基础使用"
 date: 2021-11-15T15:02:42+08:00
 draft: false
 ---
