@@ -1,7 +1,7 @@
 ---
 title: "Hugo教程"
 date: 2021-11-15T15:02:42+08:00
-draft: true
+draft: false
 ---
 
 
@@ -125,3 +125,4 @@ $ hugo -D
 
 以上命令默认会在 ./public/ 下生成内容，如需自己指定使用参数**( -d/--destination)**或者在配置文件里增加**publishdir**配置
 
+![猿类森林](/home/roc/Git_rep/zhangpengdev.github.io.source/static/img/wechat/扫码_搜索联合传播样式-白色版.png)
