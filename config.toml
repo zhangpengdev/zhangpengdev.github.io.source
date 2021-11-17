@@ -142,7 +142,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "posts/"
+url = "post/"
 
 [[languages.en.menu.main]]
 name = "Document"
@@ -177,7 +177,7 @@ url = "about/"
 [[languages.cn.menu.main]]
 name = "博客"
 weight = 2
-url = "posts/"
+url = "post/"
 
 [[languages.cn.menu.main]]
 name = "文档"
