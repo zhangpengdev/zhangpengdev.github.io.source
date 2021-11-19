@@ -57,3 +57,10 @@ $ hugo -D
 ```
 
 > 执行hugo -D之后会看到在站点根目录下生成了一个public文件夹，直接把这个文件夹部署到自己的服务器（推荐使用nginx）或者Github Page， Gitee Page等即可
+
+
+**微信公众号：猿类森林**
+
+[**阅读原文**](http://www.doc360.top/posts/hugo/hugo教程02-使用主题快速建站示例/)
+
+![公众号](http://www.doc360.top/images/wechat/qrcode_serch.png)
